@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: decc634a198c89c46a150c4b01a76302
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5414350401482120202
+    second: reloj_rojo
+  - first:
+      213: -1435174315998147793
+    second: "carros y se\xF1ales_1"
+  - first:
+      213: -8083520600156175958
+    second: "carros y se\xF1ales_2"
+  - first:
+      213: -1084871924037984256
+    second: reloj_azul
+  - first:
+      213: -4219793617746512041
+    second: "carros y se\xF1ales_4"
+  - first:
+      213: -4643012076467261610
+    second: "carros y se\xF1ales_5"
+  - first:
+      213: 6064690534933682906
+    second: "carros y se\xF1ales_6"
+  - first:
+      213: 3048871345915789127
+    second: reloj_verde_
+  - first:
+      213: 1913151940333186928
+    second: "carros y se\xF1ales_8"
+  - first:
+      213: -3501015194813812296
+    second: "carros y se\xF1ales_9"
+  - first:
+      213: 8858966837804367669
+    second: "carros y se\xF1ales_10"
+  - first:
+      213: -8944967182590091683
+    second: "carros y se\xF1ales_11"
+  - first:
+      213: -2245289142335212794
+    second: "carros y se\xF1ales_12"
+  - first:
+      213: 9045714942760889628
+    second: "carros y se\xF1ales_13"
+  - first:
+      213: -5333074599679172704
+    second: "carros y se\xF1ales_14"
+  - first:
+      213: 253605791464037577
+    second: "carros y se\xF1ales_15"
+  - first:
+      213: 7038807801584870961
+    second: "carros y se\xF1ales_16"
+  - first:
+      213: -7196193557754740764
+    second: "carros y se\xF1ales_17"
+  - first:
+      213: -4356490183248108955
+    second: "carros y se\xF1ales_18"
+  - first:
+      213: 5723453348468294371
+    second: "carros y se\xF1ales_19"
+  - first:
+      213: 8876067737187145863
+    second: "carros y se\xF1ales_20"
+  - first:
+      213: 6703368523105257210
+    second: "carros y se\xF1ales_21"
+  - first:
+      213: 6623025857690891690
+    second: "carros y se\xF1ales_22"
+  - first:
+      213: -3578140285981380631
+    second: "carros y se\xF1ales_23"
+  - first:
+      213: 8205199473569666550
+    second: "carros y se\xF1ales_24"
+  - first:
+      213: 4799777212069552688
+    second: "carros y se\xF1ales_25"
+  - first:
+      213: 2466714077274187637
+    second: "carros y se\xF1ales_26"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: reloj_rojo
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1812
+        width: 122
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f32a2e0ffc5cd4b0800000000000000
+      internalID: -5414350401482120202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "carros y se\xF1ales_1"
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1791
+        width: 90
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b8a20409c351ce0800000000000000
+      internalID: -1435174315998147793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "carros y se\xF1ales_2"
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1703
+        width: 125
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1832da7d091df80800000000000000
+      internalID: -8083520600156175958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reloj_azul
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1560
+        width: 126
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000ebe4abb2c1f0f0800000000000000
+      internalID: -1084871924037984256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "carros y se\xF1ales_4"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1468
+        width: 91
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75732c4ef084075c0800000000000000
+      internalID: -4219793617746512041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "carros y se\xF1ales_5"
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1295
+        width: 123
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe15ebd15b09fb0800000000000000
+      internalID: -4643012076467261610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "carros y se\xF1ales_6"
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1365
+        width: 104
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada556fc8eb1a2450800000000000000
+      internalID: 6064690534933682906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reloj_verde_
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1369
+        width: 109
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f7d23e554cf4a20800000000000000
+      internalID: 3048871345915789127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "carros y se\xF1ales_8"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1453
+        width: 4
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fa8ecad81ec8a10800000000000000
+      internalID: 1913151940333186928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "carros y se\xF1ales_9"
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1047
+        width: 87
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1b0efba35e96fc0800000000000000
+      internalID: -3501015194813812296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "carros y se\xF1ales_11"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 925
+        width: 110
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ed03a6db71dd380800000000000000
+      internalID: -8944967182590091683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "carros y se\xF1ales_12"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1040
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603711dcb6127d0e0800000000000000
+      internalID: -2245289142335212794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "carros y se\xF1ales_13"
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1040
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1da4be60d5d88d70800000000000000
+      internalID: 9045714942760889628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "carros y se\xF1ales_14"
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 860
+        width: 122
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afd67d48ec1df5b0800000000000000
+      internalID: -5333074599679172704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "carros y se\xF1ales_15"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 732
+        width: 96
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc1239af1df48300800000000000000
+      internalID: 253605791464037577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "carros y se\xF1ales_16"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 776
+        width: 113
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136e6bff66edea160800000000000000
+      internalID: 7038807801584870961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "carros y se\xF1ales_18"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 388
+        width: 99
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56225009243aa83c0800000000000000
+      internalID: -4356490183248108955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "carros y se\xF1ales_19"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 379
+        width: 112
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e209fb0f7acd6f40800000000000000
+      internalID: 5723453348468294371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "carros y se\xF1ales_20"
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 384
+        width: 129
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788585d54902e2b70800000000000000
+      internalID: 8876067737187145863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "carros y se\xF1ales_21"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 434
+        width: 103
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af64932e726270d50800000000000000
+      internalID: 6703368523105257210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "carros y se\xF1ales_24"
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 108
+        width: 87
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5975db279bed170800000000000000
+      internalID: 8205199473569666550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "carros y se\xF1ales_25"
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 56
+        width: 112
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032ab6ea1fb3c9240800000000000000
+      internalID: 4799777212069552688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "carros y se\xF1ales_26"
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 104
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577226252678b3220800000000000000
+      internalID: 2466714077274187637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
