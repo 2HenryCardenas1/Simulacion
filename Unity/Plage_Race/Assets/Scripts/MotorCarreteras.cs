@@ -141,15 +141,16 @@ public class MotorCarreteras : MonoBehaviour
         if(inicioJuego == true && juegoTerminado == false)
         { 
         transform.Translate(Vector3.down * velocidad * Time.deltaTime);
-         
-        }
-        if(calleAnterior.transform.position.y + tamanoCalle < medidaLimitePantalla.y && salioPantalla == false)
-        {
-            //
-            salioPantalla = true;
-            //Destruir calles
-            DestruirCalles();
+        if (calleAnterior.transform.position.y + tamanoCalle < medidaLimitePantalla.y && salioPantalla == false)
+          {
+                //
+                salioPantalla = true;
+                //Destruir calles
+                DestruirCalles();
+            }
+
         }
 
+       
     }
 }
