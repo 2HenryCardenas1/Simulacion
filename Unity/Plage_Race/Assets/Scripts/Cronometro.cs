@@ -13,6 +13,7 @@ public class Cronometro : MonoBehaviour
     public float distancia;
     public Text txtTiempo;
     public Text txtDistancia;
+    public Text txtDistanciaFinal;
 
     // Start is called before the first frame update
     void Start()
@@ -39,6 +40,8 @@ public class Cronometro : MonoBehaviour
         if (tiempo <= 0 && motorCarreterasScript.juegoTerminado == false)
         {
             motorCarreterasScript.juegoTerminado = true;
+            motorCarreterasScript.JuegoTerminadoEstados();
+            txtDistanciaFinal.text = ((int)distancia).ToString()+" mts";
         }
         
     }

@@ -342,8 +342,13 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/VSSettingsProvider.ref.dll"
+"Assets/Scripts/AudioFX.cs"
+"Assets/Scripts/Coche.cs"
+"Assets/Scripts/ControladorCoche.cs"
 "Assets/Scripts/Cronometro.cs"
+"Assets/Scripts/CuentaAtras.cs"
 "Assets/Scripts/MotorCarreteras.cs"
+"Assets/Scripts/ObstaculoCoches.cs"
 "Assets/Scripts/Pieza.cs"
 -langversion:8.0
 
