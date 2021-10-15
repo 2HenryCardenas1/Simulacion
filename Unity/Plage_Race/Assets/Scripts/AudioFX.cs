@@ -23,4 +23,16 @@ public class AudioFX : MonoBehaviour
       audioS.clip = fxs[1];
       audioS.Play();
   }
+
+  public void FXSonidoMasDiez()
+  {
+      audioS.clip = fxs[2];
+      audioS.Play();
+  }
+
+  public void FXSonidoMenos10()
+  {
+      audioS.clip = fxs[3];
+      audioS.Play();
+  }
 }

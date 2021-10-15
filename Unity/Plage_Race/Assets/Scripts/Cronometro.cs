@@ -42,6 +42,7 @@ public class Cronometro : MonoBehaviour
             motorCarreterasScript.juegoTerminado = true;
             motorCarreterasScript.JuegoTerminadoEstados();
             txtDistanciaFinal.text = ((int)distancia).ToString()+" mts";
+            txtTiempo.text= "0:00";
         }
         
     }

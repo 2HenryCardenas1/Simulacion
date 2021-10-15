@@ -113,6 +113,7 @@ public class MotorCarreteras : MonoBehaviour
         Calle.transform.parent = gameObject.transform;
 
         PosicionarCalles();
+        velocidad++;
     }
 
     void PosicionarCalles()
