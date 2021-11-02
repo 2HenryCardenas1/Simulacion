@@ -6,10 +6,12 @@ public class Balas : MonoBehaviour
 {
     public float speed = 2;
     public Vector2 direction;
+
+    public int tiempovida = 3;
     // Start is called before the first frame update
     void Start()
     {
-        
+        Destroy(gameObject,tiempovida);
     }
 
     // Update is called once per frame
