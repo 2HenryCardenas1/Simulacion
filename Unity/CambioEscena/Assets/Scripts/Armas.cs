@@ -35,7 +35,10 @@ public class Armas : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Disparo();
+        //Disparo();
+        Invoke("Disparo",1);
+        Invoke("Disparo",2);
+        Invoke("Disparo",3);
     }
 
     // Update is called once per frame

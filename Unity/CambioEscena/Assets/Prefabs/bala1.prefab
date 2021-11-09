@@ -98,4 +98,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 0.5
   direction: {x: 0, y: 0}
+  colorInicial: {r: 1, g: 1, b: 1, a: 1}
+  colorFinal: {r: 1, g: 0, b: 0, a: 0}
   tiempovida: 3
