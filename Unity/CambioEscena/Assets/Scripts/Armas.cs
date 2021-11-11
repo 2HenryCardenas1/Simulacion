@@ -14,7 +14,7 @@ public class Armas : MonoBehaviour
     }
 
 
-    void Disparo()
+    public void Disparo()
     {
         if(prefabsBalas != null && PuntoDisparo != null && tirador != null )
         {
@@ -36,9 +36,9 @@ public class Armas : MonoBehaviour
     void Start()
     {
         //Disparo();
-        Invoke("Disparo",1);
-        Invoke("Disparo",2);
-        Invoke("Disparo",3);
+       // Invoke("Disparo",1);
+       // Invoke("Disparo",2);
+        //Invoke("Disparo",3);
     }
 
     // Update is called once per frame

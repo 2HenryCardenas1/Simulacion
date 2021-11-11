@@ -11,6 +11,16 @@ public class Enemigos : MonoBehaviour
 
 
     private GameObject objetivo;
+
+    private Animator animator;
+    private Armas armas;
+
+
+    private void Awake()
+    {
+        animator= GetComponent<Animator>();
+        armas = GetComponentInChildren<Armas>();
+    }
     // Start is called before the first frame update
     void Start()
     {
@@ -50,11 +60,20 @@ public class Enemigos : MonoBehaviour
         }
     }
 
+    public void puedeDisparar()
+    {
+        if (armas != null )
+        {
+           armas.Disparo();
+        }
+    }
 
     private IEnumerator Enemigo_Objetivo()
     {
         while(Vector2.Distance(transform.position,objetivo.transform.position) > 0.05)
         {
+
+            animator.SetBool("Idle",false);
             Vector2 direction = objetivo.transform.position -  transform.position;
             float xDirection = direction.x;
             transform.Translate(direction.normalized * velocidad * Time.deltaTime);
@@ -64,13 +83,23 @@ public class Enemigos : MonoBehaviour
 
         Debug.Log("Objetivo alcanzado");
         transform.position = new Vector2(objetivo.transform.position.x,transform.position.y);
+        ActualizarObj();
+
+        animator.SetBool("Idle",true);
+
+       // if (armas != null )
+        //{
+         //   armas.Disparo();
+        //}
+
+        animator.SetTrigger("disparar");
 
         Debug.Log("Esperando"+Tiempoespera+"segundos");
         yield return new WaitForSeconds(Tiempoespera);
 
 
         Debug.Log("Espero acabó, actualizando objetivo y continuando... ");
-        ActualizarObj();
+        
         StartCoroutine("Enemigo_Objetivo");
     }
 }
