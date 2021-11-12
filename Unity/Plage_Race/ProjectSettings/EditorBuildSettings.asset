@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Game.unity
     guid: 072706e1bd2692f42b130e4bc16a9830
+  - enabled: 1
+    path: Assets/Scenes/Game Zoombies.unity
+    guid: bfaed05963cb5f841af33f4e86287088
+  - enabled: 0
+    path: 
+    guid: e54ef5c551a30ff46928b946a9683d1e
+  - enabled: 1
+    path: Assets/Scenes/Game Plage.unity
+    guid: fcce807a56b06f94d979b801d8c4bc7d
   m_configObjects: {}

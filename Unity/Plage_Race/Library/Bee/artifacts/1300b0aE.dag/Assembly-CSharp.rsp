@@ -342,7 +342,6 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/VSSettingsProvider.ref.dll"
-"Assets/Fundido.cs"
 "Assets/Scripts/AudioFX.cs"
 "Assets/Scripts/AumentoTiempo.cs"
 "Assets/Scripts/Coche.cs"
