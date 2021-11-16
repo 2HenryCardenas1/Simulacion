@@ -344,6 +344,7 @@
 "Assets/Scripts/Armas.cs"
 "Assets/Scripts/Balas.cs"
 "Assets/Scripts/Enemigos.cs"
+"Assets/Scripts/Instanciar.cs"
 "Assets/Scripts/LoadScene.cs"
 "Assets/Scripts/ProbarTeclas.cs"
 -langversion:8.0
